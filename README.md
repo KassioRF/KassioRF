@@ -6,7 +6,7 @@
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=KassioRF&theme=default&hide_border=false&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/KassioRF/convoychat">
-  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KassioRF&layout=compact&langs_count=20&card_width=320" />
+  <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KassioRF&layout=compact&langs_count=10&card_width=320" />
 </a>
 
 
