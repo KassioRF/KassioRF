@@ -1,6 +1,6 @@
 ## Kassio
 
-- 📚 Atualmente cursando Sistemas de Informação pela Universidade Federal de Ouro Preto
+- 📚 Cursando Sistemas de Informação pela Universidade Federal de Ouro Preto
 
 <a href="https://github.com/KassioRF/github-readme-stats">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=KassioRF&theme=default&hide_border=false&include_all_commits=true&count_private=true" />
