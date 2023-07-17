@@ -1,17 +1,17 @@
 ## Kassio
 
 - 📚 Cursando Sistemas de Informação pela Universidade Federal de Ouro Preto
-
+<!--
 <a href="https://github.com/KassioRF/github-readme-stats">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api?username=KassioRF&theme=default&hide_border=false&include_all_commits=true&count_private=true" />
 </a>
 <a href="https://github.com/KassioRF/convoychat">
   <img height="180em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=KassioRF&layout=compact&langs_count=10&card_width=320" />
 </a>
+-->
 
 
-
-### 💻 Tech Stack:
+#### 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) 
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=flat&logo=django&logoColor=white) 
 ![DjangoREST](https://img.shields.io/badge/DJANGO-REST-ff1709?style=flat&logo=django&logoColor=white&color=ff1709&labelColor=gray) 
